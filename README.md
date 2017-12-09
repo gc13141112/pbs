@@ -13,6 +13,7 @@ qsub
 /var/spool/torque
 
 #重启
+
 sudo service pbs_server restart
 
 sudo service pbs_sched start
